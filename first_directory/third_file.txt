@@ -1,0 +1,5 @@
+This was the third file I added in my project.
+
+This is the last file in project
+
+I had to do this to test git functionalities on remote repo. Plus how it is displayed to users who has cloned this repo.
